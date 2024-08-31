@@ -6,4 +6,4 @@ Key Features
 Allows users to calculate their carbon footprint.
 Provides information on how to reduce carbon emissions.
 Technology Stack
-The specific technology stack used in the project is not mentioned.
+The specific technology stack used in the project is not Mentioned.
